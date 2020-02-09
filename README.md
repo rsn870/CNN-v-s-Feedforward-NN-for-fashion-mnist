@@ -15,7 +15,7 @@ can be regarded as the "hello world" of computer vision .
 We compare different CNN architechtures with a classic feed forward architechture in a manner through which the differences 
 can be clearly established .
 
-The code is written in tensorflow 2.0 with keras backend as the support tensorboard has been used for visualisation purposes 
+The code is written in a .ipynb (jupyter notebook) file using  tensorflow 2.0 with keras backend as the support; tensorboard has been used for visualisation purposes 
 as well but this can be omitted . Standard libraries like numpy and matplotlib have also been used to get some concrete
 results that can be appreciated by the reader .
 
